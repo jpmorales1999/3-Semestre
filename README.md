@@ -52,7 +52,9 @@ Talleres - Parcial - Proyecto
 Autor:
 
 Juan Pablo Morales Tames
+
 Estudiante ing. de sistemas
+
 Colombia
 
 
