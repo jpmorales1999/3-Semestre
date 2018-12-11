@@ -44,9 +44,11 @@ Talleres - Parcial - Proyecto
 | Estructura de Datos II | [Arboles](https://github.com/jpmorales1999/3-Semestre/tree/master/Estructuras%20de%20Datos%20II/Corte%203/Arboles/Codigo%20arbol) [Proyecto Árbol](https://github.com/jpmorales1999/3-Semestre/tree/master/Estructuras%20de%20Datos%20II/Corte%203/Arboles/Proyecto%20arbol) |
 | Bases de Datos I | [Ejercicios Modelado](https://github.com/jpmorales1999/3-Semestre/tree/master/Bases%20de%20Datos%20I/Corte%203/Ejercicios%20modelado%20R) [Normalización](https://github.com/jpmorales1999/3-Semestre/tree/master/Bases%20de%20Datos%20I/Corte%203/Normalizacion) [Procedimientos y Funciones](https://github.com/jpmorales1999/3-Semestre/tree/master/Bases%20de%20Datos%20I/Corte%203/Procedimientos%20y%20Funciones) [Proyecto Final](https://github.com/jpmorales1999/3-Semestre/tree/master/Bases%20de%20Datos%20I/Corte%203/Proyecto%20Final) [Triggers](https://github.com/jpmorales1999/3-Semestre/tree/master/Bases%20de%20Datos%20I/Corte%203/Triggers) |
 
+
 **"El buen código es su mejor documentación"**
 
-**_Steve McConnell_**
+**- _Steve McConnell_**
+
 
 Autor:
 
